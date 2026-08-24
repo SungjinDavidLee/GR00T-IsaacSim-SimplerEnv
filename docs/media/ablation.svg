@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 420" width="820" height="420">
+<rect width="820" height="420" fill="#ffffff"/>
+<text x="20.0" y="30.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="15" fill="#1c2226" text-anchor="start" font-weight="600">절제 실험 — 파지 성공률</text>
+<text x="20.0" y="50.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="start" font-weight="400">무작위 위치 ±60 mm, 네 조건이 같은 시드로 같은 좌표를 사용. 막대 위 선은 95 % Wilson 신뢰구간</text>
+<path d="M130 320.0 L780 320.0" stroke="#e6ebee" stroke-width="0.8"/>
+<text x="120.0" y="324.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="end" font-weight="400">0 %</text>
+<path d="M130 257.5 L780 257.5" stroke="#e6ebee" stroke-width="0.8"/>
+<text x="120.0" y="261.5" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="end" font-weight="400">25 %</text>
+<path d="M130 195.0 L780 195.0" stroke="#e6ebee" stroke-width="0.8"/>
+<text x="120.0" y="199.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="end" font-weight="400">50 %</text>
+<path d="M130 132.5 L780 132.5" stroke="#e6ebee" stroke-width="0.8"/>
+<text x="120.0" y="136.5" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="end" font-weight="400">75 %</text>
+<path d="M130 70.0 L780 70.0" stroke="#e6ebee" stroke-width="0.8"/>
+<text x="120.0" y="74.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="end" font-weight="400">100 %</text>
+<rect x="170.0" y="320.0" width="96" height="0.0" fill="#93a3ac" fill-opacity="0.85"/>
+<path d="M218.0 320.0 L218.0 272.5" stroke="#1c2226" stroke-width="1.4"/>
+<path d="M210.0 320.0 L226.0 320.0" stroke="#1c2226" stroke-width="1.4"/>
+<path d="M210.0 272.5 L226.0 272.5" stroke="#1c2226" stroke-width="1.4"/>
+<text x="218.0" y="260.5" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="13" fill="#1c2226" text-anchor="middle" font-weight="600">0/16</text>
+<text x="218.0" y="342.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="14" fill="#1c2226" text-anchor="middle" font-weight="600">A</text>
+<text x="218.0" y="360.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="10" fill="#5f6f7a" text-anchor="middle" font-weight="400">ANCHOR=fixed + GR00T</text>
+<rect x="326.0" y="157.5" width="96" height="162.5" fill="#2f6f9f" fill-opacity="0.85"/>
+<path d="M374.0 195.0 L374.0 125.0" stroke="#1c2226" stroke-width="1.4"/>
+<path d="M366.0 195.0 L382.0 195.0" stroke="#1c2226" stroke-width="1.4"/>
+<path d="M366.0 125.0 L382.0 125.0" stroke="#1c2226" stroke-width="1.4"/>
+<text x="374.0" y="113.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="13" fill="#1c2226" text-anchor="middle" font-weight="600">26/40</text>
+<text x="374.0" y="342.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="14" fill="#1c2226" text-anchor="middle" font-weight="600">B</text>
+<text x="374.0" y="360.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="10" fill="#5f6f7a" text-anchor="middle" font-weight="400">ANCHOR=detect + GR00T</text>
+<rect x="482.0" y="320.0" width="96" height="0.0" fill="#93a3ac" fill-opacity="0.85"/>
+<path d="M530.0 320.0 L530.0 272.5" stroke="#1c2226" stroke-width="1.4"/>
+<path d="M522.0 320.0 L538.0 320.0" stroke="#1c2226" stroke-width="1.4"/>
+<path d="M522.0 272.5 L538.0 272.5" stroke="#1c2226" stroke-width="1.4"/>
+<text x="530.0" y="260.5" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="13" fill="#1c2226" text-anchor="middle" font-weight="600">0/16</text>
+<text x="530.0" y="342.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="14" fill="#1c2226" text-anchor="middle" font-weight="600">C</text>
+<text x="530.0" y="360.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="10" fill="#5f6f7a" text-anchor="middle" font-weight="400">ANCHOR=detect + IK</text>
+<text x="530.0" y="374.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="10" fill="#5f6f7a" text-anchor="middle" font-weight="400">(AIM 공유)</text>
+<rect x="638.0" y="132.5" width="96" height="187.5" fill="#3f8f68" fill-opacity="0.85"/>
+<path d="M686.0 170.0 L686.0 105.0" stroke="#1c2226" stroke-width="1.4"/>
+<path d="M678.0 170.0 L694.0 170.0" stroke="#1c2226" stroke-width="1.4"/>
+<path d="M678.0 105.0 L694.0 105.0" stroke="#1c2226" stroke-width="1.4"/>
+<text x="686.0" y="93.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="13" fill="#1c2226" text-anchor="middle" font-weight="600">30/40</text>
+<text x="686.0" y="342.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="14" fill="#1c2226" text-anchor="middle" font-weight="600">C0</text>
+<text x="686.0" y="360.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="10" fill="#5f6f7a" text-anchor="middle" font-weight="400">ANCHOR=detect + IK</text>
+<text x="686.0" y="374.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="10" fill="#5f6f7a" text-anchor="middle" font-weight="400">(AIM=0)</text>
+<path d="M130 320 L780 320" stroke="#1c2226" stroke-width="1"/>
+<text x="20.0" y="378.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="11" fill="#1c2226" text-anchor="start" font-weight="400">B vs A   p &lt; 0.0001  (차이 +40 ~ +78 %p)   외부 grounding 없이는 파지가 성립하지 않는다</text>
+<text x="20.0" y="396.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="11" fill="#1c2226" text-anchor="start" font-weight="400">B vs C0  p = 0.465   (차이 −29 ~ +10 %p)   VLA와 스크립트 IK가 구분되지 않는다</text>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 420" width="820" height="420">
+<rect width="820" height="420" fill="#ffffff"/>
+<text x="20.0" y="30.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="15" fill="#1c2226" text-anchor="start" font-weight="600">추론 시점 샘플링 K — 성공률과 비용</text>
+<text x="20.0" y="50.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="start" font-weight="400">DETGEOM=top, 무작위 16곳 동일 시드. 비용은 RTX 5090 + ZMQ 왕복 p50 44.0 ms 기준</text>
+<path d="M110 300.0 L700 300.0" stroke="#e6ebee" stroke-width="0.8"/>
+<text x="100.0" y="304.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="end" font-weight="400">0 %</text>
+<path d="M110 242.5 L700 242.5" stroke="#e6ebee" stroke-width="0.8"/>
+<text x="100.0" y="246.5" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="end" font-weight="400">25 %</text>
+<path d="M110 185.0 L700 185.0" stroke="#e6ebee" stroke-width="0.8"/>
+<text x="100.0" y="189.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="end" font-weight="400">50 %</text>
+<path d="M110 127.5 L700 127.5" stroke="#e6ebee" stroke-width="0.8"/>
+<text x="100.0" y="131.5" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="end" font-weight="400">75 %</text>
+<path d="M110 70.0 L700 70.0" stroke="#e6ebee" stroke-width="0.8"/>
+<text x="100.0" y="74.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="end" font-weight="400">100 %</text>
+<rect x="140.0" y="228.1" width="86" height="71.9" fill="#2f6f9f" fill-opacity="0.85"/>
+<path d="M183.0 267.8 L183.0 171.2" stroke="#1c2226" stroke-width="1.4"/>
+<path d="M176.0 267.8 L190.0 267.8" stroke="#1c2226" stroke-width="1.4"/>
+<path d="M176.0 171.2 L190.0 171.2" stroke="#1c2226" stroke-width="1.4"/>
+<text x="183.0" y="159.2" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="12" fill="#1c2226" text-anchor="middle" font-weight="600">5/16</text>
+<text x="183.0" y="322.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="13" fill="#1c2226" text-anchor="middle" font-weight="600">K = 1</text>
+<text x="183.0" y="340.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="11" fill="#c05040" text-anchor="middle" font-weight="500">44 ms</text>
+<text x="183.0" y="356.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="10" fill="#5f6f7a" text-anchor="middle" font-weight="400">전도 9/16</text>
+<rect x="286.0" y="98.8" width="86" height="201.2" fill="#2f6f9f" fill-opacity="0.85"/>
+<path d="M329.0 152.8 L329.0 76.9" stroke="#1c2226" stroke-width="1.4"/>
+<path d="M322.0 152.8 L336.0 152.8" stroke="#1c2226" stroke-width="1.4"/>
+<path d="M322.0 76.9 L336.0 76.9" stroke="#1c2226" stroke-width="1.4"/>
+<text x="329.0" y="64.9" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="12" fill="#1c2226" text-anchor="middle" font-weight="600">14/16</text>
+<text x="329.0" y="322.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="13" fill="#1c2226" text-anchor="middle" font-weight="600">K = 4</text>
+<text x="329.0" y="340.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="11" fill="#c05040" text-anchor="middle" font-weight="500">176 ms</text>
+<text x="329.0" y="356.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="10" fill="#5f6f7a" text-anchor="middle" font-weight="400">전도 2/16</text>
+<rect x="432.0" y="127.5" width="86" height="172.5" fill="#2f6f9f" fill-opacity="0.85"/>
+<path d="M475.0 182.7 L475.0 93.0" stroke="#1c2226" stroke-width="1.4"/>
+<path d="M468.0 182.7 L482.0 182.7" stroke="#1c2226" stroke-width="1.4"/>
+<path d="M468.0 93.0 L482.0 93.0" stroke="#1c2226" stroke-width="1.4"/>
+<text x="475.0" y="81.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="12" fill="#1c2226" text-anchor="middle" font-weight="600">12/16</text>
+<text x="475.0" y="322.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="13" fill="#1c2226" text-anchor="middle" font-weight="600">K = 8</text>
+<text x="475.0" y="340.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="11" fill="#c05040" text-anchor="middle" font-weight="500">352 ms</text>
+<text x="475.0" y="356.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="10" fill="#5f6f7a" text-anchor="middle" font-weight="400">전도 4/16</text>
+<rect x="578.0" y="98.8" width="86" height="201.2" fill="#2f6f9f" fill-opacity="0.85"/>
+<path d="M621.0 152.8 L621.0 76.9" stroke="#1c2226" stroke-width="1.4"/>
+<path d="M614.0 152.8 L628.0 152.8" stroke="#1c2226" stroke-width="1.4"/>
+<path d="M614.0 76.9 L628.0 76.9" stroke="#1c2226" stroke-width="1.4"/>
+<text x="621.0" y="64.9" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="12" fill="#1c2226" text-anchor="middle" font-weight="600">14/16</text>
+<text x="621.0" y="322.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="13" fill="#1c2226" text-anchor="middle" font-weight="600">K = 16</text>
+<text x="621.0" y="340.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="11" fill="#c05040" text-anchor="middle" font-weight="500">704 ms</text>
+<text x="621.0" y="356.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="10" fill="#5f6f7a" text-anchor="middle" font-weight="400">전도 2/16</text>
+<rect x="734.0" y="127.5" width="86" height="172.5" fill="#3f8f68" fill-opacity="0.85"/>
+<path d="M777.0 162.0 L777.0 102.2" stroke="#1c2226" stroke-width="1.4"/>
+<path d="M770.0 162.0 L784.0 162.0" stroke="#1c2226" stroke-width="1.4"/>
+<path d="M770.0 102.2 L784.0 102.2" stroke="#1c2226" stroke-width="1.4"/>
+<text x="777.0" y="90.2" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="12" fill="#1c2226" text-anchor="middle" font-weight="600">30/40</text>
+<text x="777.0" y="322.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="13" fill="#1c2226" text-anchor="middle" font-weight="600">IK</text>
+<text x="777.0" y="340.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="11" fill="#c05040" text-anchor="middle" font-weight="500">0 ms</text>
+<text x="777.0" y="356.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="10" fill="#5f6f7a" text-anchor="middle" font-weight="400">전도 0/40</text>
+<path d="M110 300 L800 300" stroke="#1c2226" stroke-width="1"/>
+<text x="20.0" y="378.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="11" fill="#1c2226" text-anchor="start" font-weight="400">K=1 vs K=8   p = 0.032    K≥4 에서 성공률이 평평하다. K=8은 K=4 대비 비용만 두 배다</text>
+<text x="20.0" y="396.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="11" fill="#1c2226" text-anchor="start" font-weight="400">K≥4 vs IK    p = 0.428    전도율 K=1 56 % → K≥4 17 % → IK 0 %  (K=1 vs K≥4  p = 0.0067)</text>
+</svg>

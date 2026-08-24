@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 360" width="820" height="360">
+<rect width="820" height="360" fill="#ffffff"/>
+<text x="20.0" y="30.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="15" fill="#1c2226" text-anchor="start" font-weight="600">검출 방식별 오차 — 격자 5곳의 변동폭</text>
+<text x="20.0" y="50.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="start" font-weight="400">±50 mm 격자, AIM=0. 상수 편향은 조준 보정이 흡수하므로 판정 기준은 평균이 아니라 변동폭이다</text>
+<path d="M150.0 80 L150.0 276" stroke="#e6ebee" stroke-width="0.8"/>
+<text x="150.0" y="294.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="middle" font-weight="400">0</text>
+<path d="M287.5 80 L287.5 276" stroke="#e6ebee" stroke-width="0.8"/>
+<text x="287.5" y="294.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="middle" font-weight="400">4</text>
+<path d="M425.0 80 L425.0 276" stroke="#e6ebee" stroke-width="0.8"/>
+<text x="425.0" y="294.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="middle" font-weight="400">8</text>
+<path d="M562.5 80 L562.5 276" stroke="#e6ebee" stroke-width="0.8"/>
+<text x="562.5" y="294.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="middle" font-weight="400">12</text>
+<path d="M700.0 80 L700.0 276" stroke="#e6ebee" stroke-width="0.8"/>
+<text x="700.0" y="294.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="middle" font-weight="400">16</text>
+<text x="425.0" y="316.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="middle" font-weight="400">격자 전역 변동폭 [mm]  (작을수록 좋다)</text>
+<text x="132.0" y="110.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="12" fill="#1c2226" text-anchor="end" font-weight="600">dx</text>
+<rect x="150" y="96.0" width="175.3" height="18" fill="#93a3ac" fill-opacity="0.85"/>
+<text x="333.3" y="110.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="11" fill="#1c2226" text-anchor="start" font-weight="500">5.1</text>
+<rect x="150" y="120.0" width="61.9" height="18" fill="#3f8f68" fill-opacity="0.85"/>
+<text x="219.9" y="134.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="11" fill="#1c2226" text-anchor="start" font-weight="500">1.8</text>
+<text x="132.0" y="168.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="12" fill="#1c2226" text-anchor="end" font-weight="600">dy</text>
+<rect x="150" y="154.0" width="65.3" height="18" fill="#93a3ac" fill-opacity="0.85"/>
+<text x="223.3" y="168.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="11" fill="#1c2226" text-anchor="start" font-weight="500">1.9</text>
+<rect x="150" y="178.0" width="61.9" height="18" fill="#3f8f68" fill-opacity="0.85"/>
+<text x="219.9" y="192.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="11" fill="#1c2226" text-anchor="start" font-weight="500">1.8</text>
+<text x="132.0" y="226.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="12" fill="#1c2226" text-anchor="end" font-weight="600">dz</text>
+<rect x="150" y="212.0" width="491.6" height="18" fill="#93a3ac" fill-opacity="0.85"/>
+<text x="649.6" y="226.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="11" fill="#1c2226" text-anchor="start" font-weight="500">14.3</text>
+<rect x="150" y="236.0" width="3.4" height="18" fill="#3f8f68" fill-opacity="0.85"/>
+<text x="161.4" y="250.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="11" fill="#1c2226" text-anchor="start" font-weight="500">0.1</text>
+<rect x="150" y="330" width="14" height="10" fill="#93a3ac" fill-opacity="0.85"/>
+<text x="170.0" y="339.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#1c2226" text-anchor="start" font-weight="400">ray — 물체별 상수 사용 (CANRK, CANZOFF)</text>
+<rect x="470" y="330" width="14" height="10" fill="#3f8f68" fill-opacity="0.85"/>
+<text x="490.0" y="339.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#1c2226" text-anchor="start" font-weight="400">top — 상수 제거 (윗면 점군 + 테이블 평면)</text>
+</svg>

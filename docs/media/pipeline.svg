@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300">
+<rect width="900" height="300" fill="#ffffff"/>
+<text x="20.0" y="30.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="15" fill="#1c2226" text-anchor="start" font-weight="600">시스템 구성</text>
+<text x="20.0" y="50.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="start" font-weight="400">굵은 테두리는 학습된 모델, 얇은 테두리는 규칙 기반 모듈</text>
+<rect x="20" y="78" width="150" height="72" rx="3" fill="none" stroke="#c9d3d9" stroke-width="1.0"/>
+<text x="32.0" y="102.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="13" fill="#1c2226" text-anchor="start" font-weight="500">자연어 지시</text>
+<text x="32.0" y="120.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="start" font-weight="400">"pick up the"</text>
+<text x="32.0" y="135.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="start" font-weight="400">"red soda can"</text>
+<rect x="196" y="78" width="150" height="72" rx="3" fill="none" stroke="#1c2226" stroke-width="2.0"/>
+<text x="208.0" y="102.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="13" fill="#1c2226" text-anchor="start" font-weight="600">OWL-v2</text>
+<text x="208.0" y="120.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="start" font-weight="400">대상 물체 검출</text>
+<text x="208.0" y="135.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="start" font-weight="400">(자연어 → 박스)</text>
+<rect x="372" y="78" width="150" height="72" rx="3" fill="none" stroke="#c9d3d9" stroke-width="1.0"/>
+<text x="384.0" y="102.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="13" fill="#1c2226" text-anchor="start" font-weight="500">깊이 역투영</text>
+<text x="384.0" y="120.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="start" font-weight="400">박스 영역 depth</text>
+<text x="384.0" y="135.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="start" font-weight="400">→ 3D 좌표</text>
+<rect x="548" y="78" width="150" height="72" rx="3" fill="none" stroke="#c9d3d9" stroke-width="1.0"/>
+<text x="560.0" y="102.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="13" fill="#1c2226" text-anchor="start" font-weight="500">프레임 정렬</text>
+<text x="560.0" y="120.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="start" font-weight="400">OFF 계산</text>
+<text x="560.0" y="135.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="start" font-weight="400">state 좌표계 이동</text>
+<rect x="724" y="78" width="156" height="72" rx="3" fill="none" stroke="#1c2226" stroke-width="2.0"/>
+<text x="736.0" y="102.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="13" fill="#1c2226" text-anchor="start" font-weight="600">GR00T N1.7</text>
+<text x="736.0" y="120.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="start" font-weight="400">행동 청크 생성</text>
+<text x="736.0" y="135.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="start" font-weight="400">K회 중앙값</text>
+<path d="M176 114 L190 114" stroke="#5f6f7a" stroke-width="1.2"/>
+<path d="M186 110 L192 114 L186 118 Z" fill="#5f6f7a"/>
+<path d="M352 114 L366 114" stroke="#5f6f7a" stroke-width="1.2"/>
+<path d="M362 110 L368 114 L362 118 Z" fill="#5f6f7a"/>
+<path d="M528 114 L542 114" stroke="#5f6f7a" stroke-width="1.2"/>
+<path d="M538 110 L544 114 L538 118 Z" fill="#5f6f7a"/>
+<path d="M704 114 L718 114" stroke="#5f6f7a" stroke-width="1.2"/>
+<path d="M714 110 L720 114 L714 118 Z" fill="#5f6f7a"/>
+<path d="M802 150 L802 176" stroke="#5f6f7a" stroke-width="1.2"/>
+<path d="M798 172 L802 178 L806 172 Z" fill="#5f6f7a"/>
+<rect x="548" y="178" width="156" height="60" rx="3" fill="none" stroke="#c9d3d9" stroke-width="1"/>
+<text x="560.0" y="200.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="12" fill="#1c2226" text-anchor="start" font-weight="500">Lula IK</text>
+<text x="560.0" y="216.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="10" fill="#5f6f7a" text-anchor="start" font-weight="400">EE 목표 → 7관절</text>
+<rect x="372" y="178" width="150" height="60" rx="3" fill="none" stroke="#c9d3d9" stroke-width="1"/>
+<text x="384.0" y="200.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="12" fill="#1c2226" text-anchor="start" font-weight="500">작업공간 클램프</text>
+<text x="384.0" y="216.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="10" fill="#5f6f7a" text-anchor="start" font-weight="400">목표 위치 제한</text>
+<rect x="196" y="178" width="150" height="60" rx="3" fill="none" stroke="#c9d3d9" stroke-width="1"/>
+<text x="208.0" y="200.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="12" fill="#1c2226" text-anchor="start" font-weight="500">그리퍼 제어</text>
+<text x="208.0" y="216.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="10" fill="#5f6f7a" text-anchor="start" font-weight="400">디바운스 · 유지</text>
+<rect x="20" y="178" width="150" height="60" rx="3" fill="none" stroke="#c9d3d9" stroke-width="1"/>
+<text x="32.0" y="200.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="12" fill="#1c2226" text-anchor="start" font-weight="500">PLACESERVO</text>
+<text x="32.0" y="216.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="10" fill="#5f6f7a" text-anchor="start" font-weight="400">하강 · 개방</text>
+<text x="32.0" y="230.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="10" fill="#5f6f7a" text-anchor="start" font-weight="400">(GR00T 아님)</text>
+<path d="M536 208 L548 208" stroke="#5f6f7a" stroke-width="1.2"/>
+<path d="M544 204 L538 208 L544 212 Z" fill="#5f6f7a"/>
+<path d="M360 208 L372 208" stroke="#5f6f7a" stroke-width="1.2"/>
+<path d="M368 204 L362 208 L368 212 Z" fill="#5f6f7a"/>
+<path d="M184 208 L196 208" stroke="#5f6f7a" stroke-width="1.2"/>
+<path d="M192 204 L186 208 L192 212 Z" fill="#5f6f7a"/>
+<text x="20.0" y="260.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="start" font-weight="400">GR00T가 생성하는 것은 행동 청크뿐이다. 대상 선택은 OWL-v2가, 하강과 개방은 PLACESERVO가 수행한다.</text>
+</svg>
