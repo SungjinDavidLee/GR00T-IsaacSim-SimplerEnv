@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 430" width="840" height="430">
+<rect width="840" height="430" fill="#ffffff"/>
+<text x="20.0" y="30.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="15" fill="#1c2226" text-anchor="start" font-weight="600">놓기 단계 — 수평 이송은 도달, 수직 하강은 일어나지 않음</text>
+<text x="20.0" y="50.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="start" font-weight="400">정책 단독 조건(PLACESERVO=0). 테이블 높이 0.865 m 기준</text>
+<rect x="90" y="90.0" width="300" height="260.0" fill="#f2f5f6"/>
+<rect x="90" y="339.5" width="300" height="8" fill="#8a7a63"/>
+<text x="396.0" y="345.5" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="10.5" fill="#5f6f7a" text-anchor="start" font-weight="400">테이블  0.865</text>
+<path d="M90 307.6 L390 307.6" stroke="#3f8f68" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="396.0" y="311.6" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="10.5" fill="#3f8f68" text-anchor="start" font-weight="400">놓기 목표  0.941</text>
+<path d="M90 106.6 L390 106.6" stroke="#c05040" stroke-width="2"/>
+<text x="396.0" y="110.6" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="10.5" fill="#c05040" text-anchor="start" font-weight="400">실제 개방  1.421</text>
+<path d="M240 106.6 L240 307.6" stroke="#c05040" stroke-width="1.6"/>
+<path d="M234.0 297.6 L240 307.6 L246.0 297.6 Z" fill="#c05040"/>
+<text x="248.0" y="207.1" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="12" fill="#c05040" text-anchor="start" font-weight="600">낙하 0.55 m</text>
+<text x="80.0" y="328.8" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="10" fill="#5f6f7a" text-anchor="end" font-weight="400">0.9</text>
+<text x="80.0" y="286.9" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="10" fill="#5f6f7a" text-anchor="end" font-weight="400">1.0</text>
+<text x="80.0" y="245.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="10" fill="#5f6f7a" text-anchor="end" font-weight="400">1.1</text>
+<text x="80.0" y="203.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="10" fill="#5f6f7a" text-anchor="end" font-weight="400">1.2</text>
+<text x="80.0" y="161.1" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="10" fill="#5f6f7a" text-anchor="end" font-weight="400">1.3</text>
+<text x="80.0" y="119.2" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="10" fill="#5f6f7a" text-anchor="end" font-weight="400">1.4</text>
+<text x="90.0" y="376.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="start" font-weight="400">월드 z [m]</text>
+<text x="560.0" y="88.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="12" fill="#1c2226" text-anchor="start" font-weight="600">수평 이송 오차 (개방 전 최선)</text>
+<text x="560.0" y="121.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="start" font-weight="400">최선</text>
+<rect x="560" y="128.0" width="9.0" height="14" fill="#3f8f68" fill-opacity=".85"/>
+<text x="577.0" y="140.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="11" fill="#1c2226" text-anchor="start" font-weight="500">0.011 m</text>
+<text x="560.0" y="169.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="start" font-weight="400">차선</text>
+<rect x="560" y="176.0" width="20.5" height="14" fill="#3f8f68" fill-opacity=".85"/>
+<text x="588.5" y="188.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="11" fill="#1c2226" text-anchor="start" font-weight="500">0.025 m</text>
+<text x="560.0" y="217.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="start" font-weight="400">정책 개방 판</text>
+<rect x="560" y="224.0" width="48.5" height="14" fill="#c05040" fill-opacity=".85"/>
+<text x="616.5" y="236.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="11" fill="#1c2226" text-anchor="start" font-weight="500">0.059 m</text>
+<text x="560.0" y="265.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11" fill="#5f6f7a" text-anchor="start" font-weight="400">강제 개방 판</text>
+<rect x="560" y="272.0" width="105.1" height="14" fill="#c05040" fill-opacity=".85"/>
+<text x="673.1" y="284.0" font-family="'Ubuntu Mono', 'DejaVu Sans Mono', monospace" font-size="11" fill="#1c2226" text-anchor="start" font-weight="500">0.128 m</text>
+<path d="M601.1 120 L601.1 296" stroke="#1c2226" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="606.1" y="312.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="10.5" fill="#1c2226" text-anchor="start" font-weight="400">허용 0.05 m</text>
+<text x="20.0" y="392.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11.5" fill="#1c2226" text-anchor="start" font-weight="400">이송은 목표 11 mm 까지 도달했으나 그 판은 그리퍼를 열지 않았다. 그리퍼를 연 판은 모두 0.5 m 이상 상공이었다.</text>
+<text x="20.0" y="410.0" font-family="Ubuntu, 'Noto Sans KR', 'DejaVu Sans', sans-serif" font-size="11.5" fill="#1c2226" text-anchor="start" font-weight="400">허용 오차 0.05 m 안에서 물체를 놓은 판은 40여 판 중 0판이다.</text>
+</svg>
