@@ -33,6 +33,13 @@
 | `tools/errclass.py` | 판별 로그의 오류 코드 자동 분류 |
 | `tools/rep3.py` | 결과 분석 |
 | `tools/gen_figures.py` | 문서용 SVG 그림 생성 |
+| `scripts/perturb.sh` | 접근 중 물체 이동 실험 |
+| `tools/pertdiag.py` | 교란 실험의 재시도 거동 추출 |
+| `tools/zdiag.py` | 하강이 무엇에 막혔는지 진단 |
+| `tools/aimscan.py` | 조준 보정이 위치 무관 상수인지 판정 |
+| `scripts/placetest.sh` | 놓기 단계 실험 |
+| `scripts/setpos.py` | 씬 물체 위치 안전 편집 |
+| `tools/panel_server.py`, `tools/panel.html` | 작업 디렉토리 자동 감시 패널 (읽기 전용) |
 
 ---
 
@@ -54,6 +61,7 @@
 | `patches/patch_candetect_aim.py` | 조준 보정 |
 | `patches/patch_candetect_geom2.py` | 물체 상수 제거 |
 | `patches/patch_geomaim.py` | 상수 제거 분기에서도 조준 보정 적용 |
+| `patches/patch_placeredet.py` | 파지 후 놓기 목표 재검출 |
 
 ### 적용 시 주의
 
@@ -76,6 +84,8 @@
 | `<work>/gridlogs_abck1`, `k4`, `k16` | K 스윕 |
 | `<work>/gridlogs_geom/` | 검출 방식 비교 |
 | `<work>/gridlogs_rot/` | 회전 3-DoF 게이트 |
+| `<work>/gridlogs_pert*/` | 접근 중 물체 이동 |
+| `<work>/gridlogs_place*/` | 놓기 단계 |
 | `<work>/vid_abc/`, `vid_rot/` | 실행 영상 |
 | `<work>/exp_*.csv` | 판별 CSV |
 
